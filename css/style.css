@@ -163,7 +163,7 @@ html {
 	text-align: center;	
 }
 body{
-	width: 960px;
+	width: 1010px;
 	margin: 0 auto;
 	text-align: left;
 }
@@ -231,8 +231,8 @@ section h2 {
 }
 
 section{
-    width:296px;
-    height: 282px;
+    width:315px;
+    height: 380px;
     display:block;
     float:left;
     margin: 4px;
@@ -245,7 +245,7 @@ section{
 }
 
 section div {
-    height:230px;
+    height:330px;
     overflow-y:auto;
     overflow-x:hidden;
     padding:0 5px 0 5px;

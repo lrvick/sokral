@@ -1,0 +1,342 @@
+body{
+	font-size:12px;
+	font-family: "Mryiad Pro", Helvetica, Arial, sans-serif;
+	background: #222;
+}
+a {
+  text-decoration: underline;
+  color: #4339aa;
+}
+a:hover {
+  text-decoration: none;
+
+  color: #4339aa;
+}
+a:visited {
+	color: #8962cf;
+}
+header h1 {
+	color: #fff;
+}
+h1 {
+	font-size: 18px;
+	text-indent: 20px;
+	font-weight: 500;
+}
+form#kralForm {
+    background:#666;
+	border: 3px solid #555;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+header nav a {
+	font-size: 14px;
+	color: #aaa;
+	font-weight: bold;
+	text-decoration: none;
+}
+header nav a:hover {
+	color: #4339aa;
+}
+header nav a:visited {
+	color: #aaa;
+}
+input#kralIt {
+	color: #000;
+	font-size: 24px;
+	line-height: 100%;
+	margin: 5px 0 0 5px;
+	padding-top: 5px;
+	background: transparent;
+	vertical-align: baseline;
+}
+input#submitBtn {
+	background: url(../../images/searchBtn.png) 0px -40px no-repeat;
+}
+input#submitBtn:hover {
+	background: url(../../images/searchBtn.png) 0px 0px no-repeat;
+}
+
+section h2 {
+	background: #666;
+	font-size: 18px;
+	font-weight: 500;
+	color: #000;
+	text-transform: capitalize;
+}
+
+section{
+	background: #666;
+}
+
+section div {
+	background: #888;
+}
+section div.grabber {
+	background: #666 url(../../images/grabber.png) top left no-repeat;
+	cursor: move;
+}
+
+section .grabber:hover {
+	background: #666 url(../../images/grabber.png) bottom left no-repeat;
+}
+
+section .pauseBtn {
+	background: url(../../images/play_pause.png)no-repeat;
+	cursor: pointer;
+}
+section#facebook h2 {
+	text-indent: 48px;
+	background: #666 url(../../images/facebook.png) no-repeat;
+}
+section#flickr h2 {
+	text-indent: 48px;
+	background: #666 url(../../images/flickr.png) no-repeat;
+}
+section#twitter h2 {
+	text-indent: 48px;
+	background: #666 url(../../images/twitter.png) no-repeat;
+}
+section#identica h2 {
+	text-indent: 48px;
+	background: #666 url(../../images/identica.png) no-repeat;
+}
+section#buzz h2 {
+	text-indent: 48px;
+	background: #666 url(../../images/buzz.png) no-repeat;
+}
+section#youtube h2 {
+	text-indent: 48px;
+	background: #666 url(../../images/youtube.png) no-repeat;
+}
+section#delicious h2 {
+	text-indent: 48px;
+	background: #666 url(../../images/bookmarks.png) no-repeat;
+}
+section#blogs h2 {
+	text-indent: 48px;
+	background: #666 url(../../images/blogs.png) no-repeat;
+}
+section#forums h2 {
+	text-indent: 48px;
+	background: #666 url(../../images/forums.png) no-repeat;
+}
+section#news h2 {
+	text-indent: 48px;
+	background: #666 url(../../images/news.png) no-repeat;
+}
+section#bookmarks h2 {
+	text-indent: 48px;
+	background: #666 url(../../images/bookmarks.png) no-repeat;
+}
+section#jobs h2 {
+	text-indent: 48px;
+	background: #666 url(../../images/jobs.png) no-repeat;
+}
+section#digg h2 {
+	text-indent: 48px;
+	background: #666 url(../../images/digg.png) no-repeat;
+}
+section#truveo h2 {
+	text-indent: 48px;
+	background: #666 url(../../images/truveo.png) no-repeat;
+}
+section#wikipedia h2 {
+	text-indent: 48px;
+	background: #666 url(../../images/wikipeida.png) no-repeat;
+
+}
+section#digg div.diggcount{
+    background:url(../../images/shade-news.gif) top center no-repeat;
+    font-size:22px;
+    font-weight:700;
+    color:#93883F;
+}
+section#digg div.diggcount span{
+    font-size:11px;
+}
+footer p {
+	color: #ccc;
+	font-size: 11px;
+}
+html {
+	text-align: center;	
+}
+body{
+	width: 960px;
+	margin: 0 auto;
+	text-align: left;
+}
+:focus {
+	border: none;
+}
+
+header {
+    margin:20px 72px;
+    display: block;
+}
+header img {
+	margin: 15px;
+}
+header div {
+	display: block;
+	float: right;
+	margin: 15px;
+	text-align: right;
+	clear: left;
+}
+form#kralForm {
+	position: relative;
+	left: 255px;
+	display:block;
+	height: 51px;
+	width: 302px;
+}
+
+header div nav {
+	width: 560px;
+	display: block;
+	margin: 10px 0 0 0;
+}
+header div nav a {
+
+
+	margin-left: 25px;
+}
+input#kralIt {
+	width: 246px;
+	border: none;
+	margin: 5px 0 0 5px;
+	padding-top: 5px;
+	vertical-align: baseline;
+	text-indent: 10px;
+}
+input#submitBtn {
+	position: relative;
+	float: right;
+	height: 40px;
+	width: 40px;
+	border: none;
+	text-indent: -9999px;
+	margin: 5px 5px 0 0;
+}
+#sortable {
+	clear: both;
+}
+section h2 {
+	display: block;
+	width: 304px;
+	padding: 15px 0 15px 7px;
+	margin: 0;
+}
+
+section{
+    width:296px;
+    height: 282px;
+    display:block;
+    float:left;
+    margin: 4px;
+    padding: 5px 5px 7px 5px;
+    border: 1px solid #666;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    overflow: hidden;
+    
+}
+
+section div {
+    height:230px;
+    overflow-y:auto;
+    overflow-x:hidden;
+    padding:0 5px 0 5px;
+    border: 1px solid #666;
+    
+}
+
+section div.grabber {
+	position: relative;
+	float: right;
+	width: 11px;
+	height: 35px;
+	overflow:hidden;
+	padding: 10px 0 0 0;
+	border: none;
+}
+section div.pauseBtn {
+	position: relative;
+	float: right;
+	width: 16px;
+	height: 16px;
+	overflow:hidden;
+	border: none;
+}
+section div p {
+	padding:5px;
+	line-height: 18px;
+	border-bottom: 1px dotted #666;
+	clear: both;
+}
+section div a {
+	text-decoration: none;
+}
+section div a:hover {
+	text-decoration: underline;
+}
+section img{
+	float:left;
+	clear:both;
+	margin: 0 5px 0 0;
+	max-width: 100px;
+	max-height: 100px;
+	padding: 5px;
+	border: 1px solid #666;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	
+}
+section div span.source {
+	margin-top: 5px;
+	float: right;
+	clear: right;
+	display: block;
+	font-size: 10px;
+	
+}
+section#digg div.diggcount{
+    margin:0;
+    padding:0;
+    width:51px;
+    height:52px;
+    line-height:30px;
+    text-align:center;
+    clear:none;
+    float:left;
+    overflow:hidden;
+    border:none;
+    margin:10px;
+}
+section#digg div.diggcount span{
+    line-height:10px;
+    display:block;
+    width:100%;
+}
+img.loading {
+	position: relative;
+	float: none;
+	top: 100px;
+	max-height: none;
+	max-width: none;
+	display: block;
+	margin: 0 auto;
+}
+section#flickr img{
+float:left;
+clear:none;
+margin:6px;
+	max-width: 110px;
+	max-height: 110px;
+}
+footer {
+	display: block;
+	width: auto;
+}

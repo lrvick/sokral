@@ -1,0 +1,29 @@
+ Sokral < http://github.com/UdderWeb/sokral-php >
+
+WHAT IS SOKRAL-PHP?
+	A social media search engine, built on PHP. It was built as a poof of
+	concept for what a simple social search engine might look like, and
+	as a way of learning about a wide range of Social networking APIs.
+	Some of this could of been done a lot better. It is mainly just here
+	for reference and something to deploy quickly as a testbed for what the 
+	future user experience for sokral might look like. It makes investors
+	happy.
+
+CURRENT FEATURES:
+
+ * Watch any basic search term(s)
+
+ * Url based searching http://example.com/searchterm
+
+ * Currently Supports: 
+ 	Twitter, Digg, Buzz, Facebook, Wikipedia, Delicious, Identica, Flickr,
+	Google News, Icerocket Job Search, Boardreader Forum Search, Youtube
+
+ * Lots bugs to play with!
+
+NOTES
+
+	If you ever find this useful or fix some of the bugs, please contribute 
+	your changes! This project needs love.
+
+	Questions/Comments? Please check us out on IRC via irc://udderweb.com/#uw
